@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rrmsoft/static/css/main.1d0baa4c.css",
+    "main.js": "/rrmsoft/static/js/main.3b50c2f7.js",
+    "index.html": "/rrmsoft/index.html",
+    "main.1d0baa4c.css.map": "/rrmsoft/static/css/main.1d0baa4c.css.map",
+    "main.3b50c2f7.js.map": "/rrmsoft/static/js/main.3b50c2f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d0baa4c.css",
+    "static/js/main.3b50c2f7.js"
+  ]
+}
