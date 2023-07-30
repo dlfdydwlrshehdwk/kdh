@@ -5,7 +5,9 @@
 프론트엔드 개발자로서의 진로를 희망하고 있으며 
 
 사용가능한 언어는 
-React, vue.js, javascript(jquery), html, css 입니다.
+Next.js, React, vue.js, javascript(jquery), html, css 입니다.
+
+Next.js 로 서버를 이용해 DB와 연결을 주고받을 수 있으며
 
 React나 vue.js를 이용한 SPA에 대한 이해도가 있으며 
 함수형 컴포넌트를 이용한 웹프로그래밍이 가능합니다.
